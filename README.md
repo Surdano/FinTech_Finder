@@ -1,7 +1,7 @@
 # FinTech_Finder
 ![ScreenShot of ethereum](https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1329407939/medium_image_1329407939.jpg)
 
-A Streamlit application that allows the user to choose a FinTech professional that they are interested in hiring, choose the number of hours they want the hired professional to work and then send Ethereum as payment. The applcation provides a validated transaction hash to verify that the amount of Ethereum was sent successfully
+A Streamlit application that allows the user to choose a FinTech professional that they are interested in hiring, choose the number of hours they want the hired professional to work and then send Ethereum as payment. The applcation provides a validated transaction hash to verify that the amount of Ethereum was sent successfully.
 
 ---
 ## Technologies:
